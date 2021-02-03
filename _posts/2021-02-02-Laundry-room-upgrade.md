@@ -11,17 +11,19 @@ Before and After: The Left Side
 ![Left side - before](../images/IMG_4578.jpg)
 ![Left side - before](../images/IMG_4584.jpg)
 ![Left side - before](../images/IMG_4583.jpg)
-![Left side - after](../images/IMG_4695.jpg)
+![Left side - after](../images/PXL_20210201_133204644.jpg)
 ![Left side - after](../images/IMG_4696.jpg)
-![Left side - after](../images/IMG_4697.jpg)
+
 
 Before and After: The Right Side
+![Right side - before](../images/IMG_4579.jpg)
 ![Right side - before](../images/IMG_4581.jpg)
+![Right side - before](../images/IMG_4580.jpg)
 ![Right side - before](../images/IMG_4582.jpg)
+![Right side - after](../images/PXL_20210201_133214663.jpg)
 ![Right side - after](../images/IMG_4698.jpg)
 ![Right side - after](../images/IMG_4700.jpg)
 ![Right side - after](../images/IMG_4701.jpg)
-![Right side - after](../images/IMG_4702.jpg)
 
 And some shots at various stages of construction...
 ![Under construction](../images/PXL_20210102_160430559.jpg)
