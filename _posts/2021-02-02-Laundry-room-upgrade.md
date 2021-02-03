@@ -7,19 +7,22 @@ What do you do with your vacation days during a pandemic? Home renovations, of c
 
 It's hard to take good pictures of such a small room, but I did my best. Another stellar project by Bergen!
 
-Before and After: The Left Side
+Before: The Left Side
 ![Left side - before](../images/IMG_4578.jpg)
 ![Left side - before](../images/IMG_4584.jpg)
 ![Left side - before](../images/IMG_4583.jpg)
+
+After: The Left Side
 ![Left side - after](../images/PXL_20210201_133204644.jpg)
 ![Left side - after](../images/IMG_4696.jpg)
 
-
-Before and After: The Right Side
+Before: The Right Side
 ![Right side - before](../images/IMG_4579.jpg)
 ![Right side - before](../images/IMG_4581.jpg)
 ![Right side - before](../images/IMG_4580.jpg)
 ![Right side - before](../images/IMG_4582.jpg)
+
+After: The Right Side
 ![Right side - after](../images/PXL_20210201_133214663.jpg)
 ![Right side - after](../images/IMG_4698.jpg)
 ![Right side - after](../images/IMG_4700.jpg)
